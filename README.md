@@ -8,7 +8,7 @@ Here you can find all the mods I made to my Voron 2.4 350 printer. Some of these
 ### Activated Carbon Exhaust
 This mod allows usage of loose activated carbon (pellets, granules) with a standard exhaust housing. There is also a version with 3-way filament outlets.
 
-### ClockWork2 Filament Sensor (for ERCF)
+### [ClockWork2 Filament Sensor (for ERCF)](./CW2_Filament_Sensor/)
 My honest attempt to modify Clockwork 2 so that it includes a filament sensor, while trying to preserve stealth-geometry-style of the thing.
 
 ### Carbon Fiber Tube
@@ -25,8 +25,8 @@ A few mods for Klicky Probe
 ### Macros
 Cool, useful and quality-of-life improvement macros
 
-### Quick Release Panel Clips
-Quick release Panel Clips inspired by Annex Engineering
+### [Quick Release Panel Clips](./QuickReleaseClips/)
+Quick release Panel Clips inspired by Annex Engineering. This mod unfortunately wasn't accepted to the Voron-Users repository over the fears of license agreement violation.
 
 ### Revo Nozzle Holder
 Version that holds 5 nozzles
@@ -34,7 +34,7 @@ Version that holds 5 nozzles
 ### Skirt Storage
 In-skirt tool and part storage box similar to Ender3 V2
 
-### Smart Filament Sensor
+### [Smart Filament Sensor](./SmartFilamentSensor/)
 Homemade version of BTT's Smart Filament Sensor. Cheaper? Maybe not. But definitely better and customizable.
 
 ## SpoolHolder with a roller
