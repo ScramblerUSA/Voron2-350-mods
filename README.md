@@ -10,6 +10,7 @@ This mod allows usage of loose activated carbon (pellets, granules) with a stand
 
 ### [ClockWork2 Filament Sensor (for ERCF)](./CW2_Filament_Sensor/)
 My honest attempt to modify Clockwork 2 so that it includes a filament sensor, while trying to preserve stealth-geometry-style of the thing.
+While submitted as a mod to the [ER's UserMods](https://github.com/EtteGit/EnragedRabbitProject/pull/130), it looks like there's not much activity going on there.
 
 ### Carbon Fiber Tube
 Plastic parts needed to easily convert from aluminum profile to a carbon fiber tube.
@@ -26,7 +27,7 @@ A few mods for Klicky Probe
 Cool, useful and quality-of-life improvement macros
 
 ### [Quick Release Panel Clips](./QuickReleaseClips/)
-Quick release Panel Clips inspired by Annex Engineering. This mod unfortunately wasn't accepted to the Voron-Users repository over the fears of license agreement violation.
+Quick release Panel Clips inspired by Annex Engineering. This mod unfortunately [wasn't accepted](https://github.com/VoronDesign/VoronUsers/pull/804) to the Voron-Users repository over the fears of license agreement violation.
 
 ### Revo Nozzle Holder
 Version that holds 5 nozzles
