@@ -1,7 +1,7 @@
 # Voron2-350-mods
 Various mods for my Voron 2.4 350
 
-Here you can find all the mods I made to my Voron 2.4 350 printer. Some of these mods are/will be submitted to the [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ScramblerUSA) repository, but the process is slow and some mods do not deserve to be published to the official repo, or do not fit (either they include electronics/firmware changes, or derived from other projects). All the work in progress will also be published here.
+Here you can find all the mods I made to my Voron 2.4 350 printer. Some of these mods are/will be submitted to the [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ScramblerUSA) repository, but the process is slow and some mods do not deserve to be published to the official repo, or do not fit (either they include major electronics/firmware changes, or derived from other projects). All the work in progress will also be published here.
 
 ## Mods
 
